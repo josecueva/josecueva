@@ -15,10 +15,10 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/jose-luis-cueva-tacuri">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:jctacuri@gmail.com?subject=Hello%20Jose">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ReactJs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/sass-cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
 </p>
 <hr>
 <h4>
@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MongoDb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
