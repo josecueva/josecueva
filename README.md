@@ -8,7 +8,7 @@
 
 <p align='center'>
   <a href="#">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=StefanyVasc.StefanyVasc??style=for-the-badge&logo=appveyor">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=josecueva.josecueva??style=for-the-badge&logo=appveyor">
   </a>
 </p>
 
@@ -17,10 +17,10 @@
   <a href="https://www.linkedin.com/in/jose-luis-cueva-tacuri">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:jctacuri@gmail.com?subject=Olá%20Jose">
+  <a href="mailto:jctacuri@gmail.com?subject=Hello%20Jose">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/8292390/jose-luis-cueva-tacuri">
+  <a href="https://stackoverflow.com/users/8292390/jose-luis-cueva-tacuri?tab=profile">
     <img src="https://img.shields.io/badge/StackOverflow-%23F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
