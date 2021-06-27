@@ -20,9 +20,6 @@
   <a href="mailto:jctacuri@gmail.com?subject=Hello%20Jose">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/8292390/jose-luis-cueva-tacuri?tab=profile">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
