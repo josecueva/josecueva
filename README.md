@@ -22,8 +22,32 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<h4>
+  🔭 I’m currently working on ...
+</h4>
 
-<!-- FrontEnd developer: images: --->
+<h5>
+  FrontEnd Developer
+</h5>
+<p>
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ReactJs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
+</p>
+<hr>
+<h4>
+  🌱 I'm currently learning... 
+</h4>
+<p >
+  <img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MongoDb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Amazon%20S3-47A248?style=for-the-badge&logo=amazons3&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp;
+</p>
 
 <!--
 **josecueva/josecueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
